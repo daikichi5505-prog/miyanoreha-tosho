@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+@layer base {
+  .font-serif-jp {
+    font-family: 'Noto Serif JP', 'Cinzel', serif;
+  }
+}
+
+/* Custom bookish card and spine styling */
+.book-spine-gold {
+  box-shadow: inset 4px 0 0 0 #d97706;
+}
+.book-spine-blue {
+  box-shadow: inset 4px 0 0 0 #1e3a8a;
+}
+.book-spine-green {
+  box-shadow: inset 4px 0 0 0 #065f46;
+}
+

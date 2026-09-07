@@ -1,0 +1,6 @@
+{
+  "name": "リハビリ科 図書・文献情報ポータル",
+  "description": "リハビリテーション科教育委員会 図書係ポータル。「臨床の疑問を放置しない道具箱」として、蔵書検索・新刊ジャーナル・購入希望リクエストを提供。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
