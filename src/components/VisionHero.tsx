@@ -48,7 +48,7 @@ export const VisionHero: React.FC<VisionHeroProps> = ({
         <h1 className="text-xl sm:text-2xl md:text-3xl lg:text-4xl font-extrabold tracking-tight text-[#fdfaf5] mb-4 sm:mb-5 leading-snug font-serif-jp">
           「整える」図書インフラ
           <span className="text-[#d4af37] font-normal mx-1.5 sm:mx-2.5">｜</span>
-          <span className="text-[#f5cb74] block sm:inline mt-1 sm:mt-0">臨床の疑問を放置しない道具箱</span>
+          <span className="text-[#e8e6e0] block sm:inline mt-1 sm:mt-0">臨床の疑問を放置しない道具箱</span>
         </h1>
 
         {/* 3 Core Pillars: Classic Library Cloth & Leather Binding */}
